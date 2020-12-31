@@ -16,9 +16,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 -->
 ## Who Am I?
-I am currently pursuing my Bachelors of Engineering under the domain of Computer Science Engineering. I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me forward. I am also an upbeat, ambitious, self-motivated team player and driven person with proven leadership capabilities, who likes to take initiative and seek out new challenges. I thrive on challenges and constantly set goals for myself. So I have something to strive forward and achieve in my life. I am always looking for an opportunity to do better and achieve greatness.
-
-Being a Sophomore , I am still learning and therefore need an opportunity to know more about Open Source.Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures. I also bring with me some fresh ideas and hope to discuss the same with all people out here. I am confident they will find many of them to be quite useful and innovative. I will strive to add maximum value to the people around me - in terms of my eagerness to learn, dedication and strong work ethic - to ensure a mutually beneficial professional partnership
+Hey I am Ajith pursuing my Bachelor's of Engineering under the domain of Computer Science and Engineering.I thrive on challenges and constantly set goals for myself so I can strive forward. I am always looking for an opportunity to do better and achieve greatness. Being a Sophomore , I am still learning and therefore need an opportunity to know more about Open Source.Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures. I also bring with me some fresh ideas and hope to discuss the same with all people out here. I am confident they will find many of them to be quite useful and innovative.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -37,22 +35,11 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
 
 ### Connect with me:
 
-<a href="https://twitter.com/muthuannamalai_">
-  <img align="left" alt="Muthu Annamalai | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/muthu-annamalai/">
-  <img align="left" alt="Muthu Annamalai's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/muthuannamalai12/">
-  <img align="left" alt="Muthu Annamalai's | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
-</a>
-<a href="https://www.facebook.com/muthuAnnamalai32/">
-  <img align="left" alt="Muthu Annamalai's | Facebook" width="22px" src="https://www.nicepng.com/png/full/448-4482584_fb-icon-facebook-icon.png" />
-</a>
 
-<br />
-
----
+<a href="https://www.linkedin.com/in/s-ajith/">
+  <img align="left" alt="Ajith's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+-
 
 ### Languages and Tools:
 
