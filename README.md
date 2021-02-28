@@ -43,7 +43,7 @@ Hey I am Ajith pursuing my Bachelor's of Engineering under the domain of Compute
 
 ### Languages and Tools:
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/c-line.svg" width="40" height="40"/><img
+<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"><img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/c-line.svg" width="40" height="40"/><img
 src="https://flutter.dev/images/catalog-widget-placeholder.png" alt="flutter" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
 
 
