@@ -55,7 +55,7 @@ src="https://flutter.dev/images/catalog-widget-placeholder.png" alt="flutter" wi
 
 
 
-📈 ## :bar_chart: My GitHub Stats
+📈 ## chart: My GitHub Stats
 
 <details>
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
