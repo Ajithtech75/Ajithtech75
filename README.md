@@ -52,6 +52,31 @@ src="https://flutter.dev/images/catalog-widget-placeholder.png" alt="flutter" wi
 
 
 
-📈 My GitHub Stats
+📈 ## :bar_chart: My GitHub Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ajithtech75&theme=flag-india&show_icons=true)
+<details>
+  <summary>:chart_with_upwards_trend: Profile Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajithtech75&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajithtech75&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <br/>
+  <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
+</details>
+
+<details>
+   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=Ajithtech75&theme=xcode" alt="Contribution Graph" align="center" />
+</details>
+
+<details>
+  <summary>:trophy: Github Profile Trophy </summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ajithtech75&theme=nord"  alt="GitHub Profile Trophy" align="center" />
+</details>
+                                                                                                                                      
+<details>
+  <summary>:fire: GitHub Streak</summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajithtech75&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
+</details>
