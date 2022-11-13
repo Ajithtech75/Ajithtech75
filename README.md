@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/hello.gif" width="500" height="320"  /> </p>
 <h1 align="center">Hi there👋, I'm Ajith Saravanan </h1>
-<!--
+<!---
 
 Want To Contact Me? 📱
 
@@ -11,7 +11,7 @@ Want To Contact Me? 📱
 
 
 
-<!--
+<!---
 Here are some ideas to get you started:-->
 <!--
 - 🔭 I’m currently working on ...
