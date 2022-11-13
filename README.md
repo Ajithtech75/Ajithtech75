@@ -4,7 +4,6 @@
 
 Want To Contact Me? 📱
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Ajith%20Saravanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-ajith/)](https://www.linkedin.com/in/s-ajith/)
 [![Instagram Badge](https://img.shields.io/badge/-ajith27-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.ajith27._/?igshid=NDc0ODY0MjQ%3D)](https://www.instagram.com/_.ajith27._/?igshid=NDc0ODY0MjQ%3D)
 [![Gmail Badge](https://img.shields.io/badge/-ajith7761@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajith7761@gmail.com/)](mailto:ajith7761@gmail.com)
