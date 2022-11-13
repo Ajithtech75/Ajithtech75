@@ -1,7 +1,16 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/hello.gif" width="500" height="320"  /> </p>
-<h1 align="center">Hi 👋, I'm Ajith</h1>
+<h1 align="center">Hi there👋, I'm Ajith Saravanan </h1>
 <!--
-**muthuannamalai12/muthuannamalai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+Want To Contact Me? 📱
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ajith%20Saravanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-ajith/)](https://www.linkedin.com/in/s-ajith/)
+[![Instagram Badge](https://img.shields.io/badge/-ajith27-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.ajith27._/?igshid=NDc0ODY0MjQ%3D)](https://www.instagram.com/_.ajith27._/?igshid=NDc0ODY0MjQ%3D)
+[![Gmail Badge](https://img.shields.io/badge/-ajith7761@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajith7761@gmail.com/)](mailto:ajith7761@gmail.com)
+[![Hashnode Badge](https://img.shields.io/badge/-@ajith27-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://ajith75.hashnode.dev/)](https://ajith75.hashnode.dev/)
+
+
 
 <!--
 Here are some ideas to get you started:-->
@@ -33,21 +42,10 @@ Hey I am Ajith pursuing my Bachelor's of Engineering under the domain of Compute
 
 ---
 
-### Connect with me:
 
+🧰 ToolBox 
 
-<a href="https://www.linkedin.com/in/s-ajith/">
-  <img align="left" alt="Ajith's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
--
-<a href="https://twitter.com/AjithSaravannan">
-  <img align="left" alt="S Ajith's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-### Languages and Tools:
-
-<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"><img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/c-line.svg" width="40" height="40"/><img
-src="https://flutter.dev/images/catalog-widget-placeholder.png" alt="flutter" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
 
 
 ---
