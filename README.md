@@ -37,7 +37,6 @@ I also bring with me some fresh ideas and hope to discuss the same with all peop
 
 <p align="centre"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/code.gif" alt="codegif" width="500" height="320" /></p>
 
----
 
 ---
 
