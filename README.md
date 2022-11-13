@@ -24,7 +24,11 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 -->
 ## Who Am I?
-Hey I am Ajith pursuing my Bachelor's of Engineering under the domain of Computer Science and Engineering.I thrive on challenges and constantly set goals for myself so I can strive forward. I am always looking for an opportunity to do better and achieve greatness. Being a Sophomore , I am still learning and therefore need an opportunity to know more about Open Source.Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures. I also bring with me some fresh ideas and hope to discuss the same with all people out here. I am confident they will find many of them to be quite useful and innovative.
+Hey I am Ajith pursuing my Bachelor's of Engineering under the domain of Computer Science and Engineering.I thrive on challenges and constantly set goals for myself so I can strive forward. I am always looking for an opportunity to do better and achieve greatness. 
+
+Being a senior, I am still learning and therefore need an opportunity to know more about Open Source.Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures.
+
+I also bring with me some fresh ideas and hope to discuss the same with all people out here. I am confident they will find many of them to be quite useful and innovative.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -34,10 +38,6 @@ Hey I am Ajith pursuing my Bachelor's of Engineering under the domain of Compute
 <p align="centre"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/code.gif" alt="codegif" width="500" height="320" /></p>
 
 ---
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31dbzupfn4chqh5oyocz4hhkpkj4)
 
 ---
 
