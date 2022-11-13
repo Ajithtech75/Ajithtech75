@@ -1,7 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/hello.gif" width="500" height="320"  /> </p>
 <h1 align="center">Hi there👋, I'm Ajith Saravanan </h1>
 <!---
-
 Want To Contact Me? 📱
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ajith%20Saravanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-ajith/)](https://www.linkedin.com/in/s-ajith/)
