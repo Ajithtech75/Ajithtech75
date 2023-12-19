@@ -25,7 +25,7 @@ Here are some ideas to get you started:-->
 ## Who Am I?
 Hey I am Ajith pursuing my Bachelor's of Engineering under the domain of Computer Science and Engineering.I thrive on challenges and constantly set goals for myself so I can strive forward. I am always looking for an opportunity to do better and achieve greatness. 
 
-Being a senior, I am still learning and therefore need an opportunity to know more about Open Source.Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures.
+Being a undergraduate, I am still learning and therefore need an opportunity to know more about Open Source.Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures.
 
 I also bring with me some fresh ideas and hope to discuss the same with all people out here. I am confident they will find many of them to be quite useful and innovative.
 
